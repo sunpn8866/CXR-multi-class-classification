@@ -1,2 +1,2 @@
 # CXR-multi-class-classification
-An attempt to classify unbalanced Covid 19 pneumonia CXR image
+An attempt to classify inbalanced Covid 19 pneumonia CXR image
